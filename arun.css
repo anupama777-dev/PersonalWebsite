@@ -1,0 +1,63 @@
+.part{
+    width: 224px;
+    height: 1000px;
+    color: white;
+    background-color:black;
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 20px;
+    padding-top: 200px;
+    font-style: italic;
+    text-decoration: none;
+    float: left;
+    font-synthesis: style;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.middle{
+    width: 1000px;
+    height: 1000px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    text-align: center;
+    background-image: url(https://cdn.bajajauto.com/tinyPng.ashx?filePath=/-/media/bajaj-auto/motorbikes-new/pulsar-ns200/PulsarNS200-BannerMobileImg5.ashx?w=450);
+    padding-top: 0px;
+    font-weight: 500;
+    float: left;
+}
+.about{
+    background-color: black;
+    color: white;
+    background-image: radial-gradient(blue 10%,black);
+}
+.photos{
+    margin-left: 40px;
+    padding-top: 30px;
+    background-color: black;
+}
+.s2{
+    margin-left: 0%;
+}
+.fab{
+    float: left;
+    display: inline-block;
+}
+.foot{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.sp{
+    margin-left: 220px;
+    border-radius: 20px;
+    border-color: white;
+    border-style: double;
+
+}
+.sp1{
+    margin-left: 438px;
+    border-radius: 20px;
+    border-color: white;
+    border-style: double;
+
+}
